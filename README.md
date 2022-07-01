@@ -42,3 +42,11 @@ Ils ce réfugiérent donc dans un vieux batiment abandonné, où une prise d'ota
 L'assault enfin donné, c'est une bataille acharnée qui commence, les amis de Xavier tombe les uns après les autres, Laura est beaucoup trop forte pour eux !
 
 ---
+
+## Julien.E
+
+Xavier donne un coup de positron à Laura, parvenant à détourner son attention pendant une fraction de seconde et permettant à ses amis de s'échapper pour appeler les powers rangers à la rescousse. 
+
+C'est finalement après avoir combiné tous leurs véhicules qu'ils sont parvenus à tenir la terrible Laura en échec.
+
+---
