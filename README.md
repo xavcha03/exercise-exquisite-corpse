@@ -20,3 +20,15 @@ Elle s'enfuya dans les petites rues de **Charleroi**, cependant tous les amis de
 *Laura* n'a plus le choix et continue sa cavalle avec *Xavier* sur les épaules.
 
 ---
+
+## Doriano
+
+Soudain, elle croise David, un jeune pilote de vespa qui le propose de l'emmener elle et son prisonnier loin de Charleroi.
+
+![Vespa](assets/vespa.gif)
+
+Après quelques heures de route, ils arrivent à Molenbeek et pas Molenbèk. Là-bas ils rencontrent Bob un ami, du cousin, de la cousine, de la sœur de David. Celle-ci se propose de les aider.
+
+![Molenbeek](assets/molenbeek.jpg)
+
+---
