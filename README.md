@@ -13,9 +13,9 @@ Ils marchèrent jusqu'a l'aurée du bois quand soudain, *Laura* armé d'un **ner
 
 ## Benoit
 
-Elle s'enfuya dans les petites rues de **Charleroi**, cependant tous les amis de *Xavier* se missent à sa poursuite en trottinettent électrique.
+Elle s'enfuya dans les petites rues de **Charleroi**, cependant tous les amis de *Xavier* se missent à sa poursuite en trottines électriques.
 
-*Laura* commence a distancer ses poursuivant, elle essaye de rejoindre l'aeroport ou son complice l'attend, cependant elle se fait bloquer dans une petite rue par un bus que Doriano a détourné.
+*Laura* commence a distancer ses poursuivants, elle essaye de rejoindre l'aeroport où son complice l'attend, cependant elle se fait bloquer dans une petite rue par un bus que Doriano a détourné.
 
 *Laura* n'a plus le choix et continue sa cavalle avec *Xavier* sur les épaules.
 
@@ -23,7 +23,7 @@ Elle s'enfuya dans les petites rues de **Charleroi**, cependant tous les amis de
 
 ## Doriano
 
-Soudain, elle croise David, un jeune pilote de vespa qui le propose de l'emmener elle et son prisonnier loin de Charleroi.
+Soudain, elle croise David, un jeune pilote de vespa qui lui propose de l'emmener elle et son prisonnier loin de Charleroi.
 
 ![Vespa](assets/vespa.gif)
 
